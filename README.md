@@ -1,4 +1,4 @@
-# Customer Interaction Research
+# Customer Interaction Research Principles and Perspectives
 
 Customer Interaction Research is a source repository for structuring design philosophy, customer research, synthetic perspective models, and AI-assisted research management across functional and emotional experience.
 
